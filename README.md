@@ -15,3 +15,7 @@
             Profesor: Mario García Valdez
 
         15/03/2023, Tijuana, Baja California
+
+# Tareas
+
+[Investigación Unidad 1](../ProgOO/ParadigmaOO/README.md)

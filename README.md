@@ -18,4 +18,4 @@
 
 # Tareas
 
-[Investigación Unidad 1](../ProgOO/ParadigmaOO/README.md)
+[Investigación Unidad 1](https://github.com/DaigoPaez/ProgOO/tree/main/ParadigmaOO)

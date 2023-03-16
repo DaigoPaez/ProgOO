@@ -1,18 +1,18 @@
 # Tarea U1
 
->## **El paradigmaOO**
+>## **El paradigma OO**
 
 ### **Definición de paradigma**
 
-Un paradigma de programación es una manera o estilo de programación de software. Existen diferentes formas de diseñar un lenguaje de programación y varios modos de trabajar para obtener los resultados que necesitan los programadores.  Se trata de un conjunto de métodos sistemáticos aplicables en todos los niveles del diseño de programas para resolver problemas computacionales. [Referencia](https://profile.es/blog/que-son-los-paradigmas-de-programacion/)
+Un paradigma de programación es una manera o estilo de programación de software. Existen diferentes formas de diseñar un lenguaje de programación y varios modos de trabajar para obtener los resultados que necesitan los programadores.  Se trata de un conjunto de métodos sistemáticos aplicables en todos los niveles del diseño de programas para resolver problemas computacionales.
 
 ### **Definición de Programación Orientada a Objetos**
 
-La Programación Orientada a Objetos (POO) es un paradigma de programación, es decir, un modelo o un estilo de programación que nos da unas guías sobre cómo trabajar con él. Se basa en el concepto de clases y objetos. Este tipo de programación se utiliza para estructurar un programa de software en piezas simples y reutilizables de planos de código (clases) para crear instancias individuales de objetos. [Referencia](https://profile.es/blog/que-es-la-programacion-orientada-a-objetos/)
+La Programación Orientada a Objetos (POO) es un paradigma de programación, es decir, un modelo o un estilo de programación que nos da unas guías sobre cómo trabajar con él. Se basa en el concepto de clases y objetos. Este tipo de programación se utiliza para estructurar un programa de software en piezas simples y reutilizables de planos de código (clases) para crear instancias individuales de objetos. 
 
 *¿Cuál fue el primer lenguaje orientado a objetos, quienes y en dónde lo propusieron?**
 
-Simula, en 1962, propuesto en Noruega por Quisten Negar y Ole-Johan Del. Las nociones básicas de la POO como las clases, la herencia, los métodos virtuales, etc., fueron creados en este lenguaje para permitir modelizar de manera fidedigna procesos industriales complejos. Simula-67 había abierto la vía de los lenguajes orientados a objetos, como Smalltalk y más adelante C++, Java y C# entre otros, que explotarían estos conceptos algunas décadas más tarde. Los dos autores de Simula fueron recompensados por sus trabajos a comienzos de los años 2000, es decir, justo antes de su desaparición. [Referencia](https://www.ediciones-eni.com/open/mediabook.aspx?idR=dbba30cf4ffac2993c1495a629f282df)
+Simula, en 1962, propuesto en Noruega por Quisten Negar y Ole-Johan Del. Las nociones básicas de la POO como las clases, la herencia, los métodos virtuales, etc., fueron creados en este lenguaje para permitir modelizar de manera fidedigna procesos industriales complejos. Simula-67 había abierto la vía de los lenguajes orientados a objetos, como Smalltalk y más adelante C++, Java y C# entre otros, que explotarían estos conceptos algunas décadas más tarde. Los dos autores de Simula fueron recompensados por sus trabajos a comienzos de los años 2000, es decir, justo antes de su desaparición. 
 
 ### **Concepto de abstracción**
 
@@ -26,7 +26,13 @@ Ayuda a evitar replicar código y de esta forma la complejidad del código se re
 
 La encapsulación es un mecanismo para reunir datos y métodos dentro de una estructura ocultando la implementación del objeto, es decir, impidiendo el acceso a los datos por cualquier medio que no sean los servicios propuestos. A continuación hay 2 imágenes que ayudan a ilustrar el concepto:
 
-[Sistema con encapsulamiento](../img/Encapsulamiento.png) _ [Sistema sin encapsulamiento]()
+Este es un sistema **con** encapsulamiento
+
+![Sistema con encapsulamiento](../img/Con_encapsulamiento.png) 
+
+Este es un sistema **sin** encapsulamiento
+
+![Sistema sin encapsulamiento](../img/Sin_encapsulamiento.png)
 
 *¿Por qué es importante y qué problemas puede evitar?*
 
@@ -65,3 +71,29 @@ No puedo mencionar a alguna empresa local que utilice este lenguaje de modelado,
 *Microsoft Visio*: 	Software propietario de gráficos vectoriales y gráficos
 
 ## **Propuesta de máquina expendedora con UML**
+
+Un diagrama UML de una máquina expendedora que hice sin tener mucha idea de diagramas UML.
+
+![Diagrama](../img/Diagrama.png)
+
+# Referencias
+
+[https://profile.es/blog/que-son-los-paradigmas-de-programacion/](https://profile.es/blog/que-son-los-paradigmas-de-programacion/)
+
+[https://profile.es/blog/que-es-la-programacion-orientada-a-objetos/](https://profile.es/blog/que-es-la-programacion-orientada-a-objetos/)
+
+[https://www.ediciones-eni.com/open/mediabook.aspx?idR=dbba30cf4ffac2993c1495a629f282df](https://www.ediciones-eni.com/open/mediabook.aspx?idR=dbba30cf4ffac2993c1495a629f282df)
+
+[https://ifgeekthen.nttdata.com/es/herencia-en-programacion-orientada-objetos](https://ifgeekthen.nttdata.com/es/herencia-en-programacion-orientada-objetos)
+
+[https://www.studocu.com/es-mx/document/universidad-mexicana-sc/diseno-de-sistemas/historia-de-uml/28989354](https://www.studocu.com/es-mx/document/universidad-mexicana-sc/diseno-de-sistemas/historia-de-uml/28989354)
+
+[https://styde.net/encapsulamiento-en-la-programacion-orientada-a-objetos/](https://styde.net/encapsulamiento-en-la-programacion-orientada-a-objetos/)
+
+[http://codigo418.blogspot.com/2017/10/la-importancia-del-encapsulamiento.html](http://codigo418.blogspot.com/2017/10/la-importancia-del-encapsulamiento.html)
+
+[https://datascientest.com/es/encapsulacion-definicion-e-importancia](https://datascientest.com/es/encapsulacion-definicion-e-importancia)
+
+[https://developer.mozilla.org/es/docs/Glossary/Abstraction](https://developer.mozilla.org/es/docs/Glossary/Abstraction)
+
+[https://styde.net/abstraccion-programacion-orientada-a-objetos/](https://styde.net/abstraccion-programacion-orientada-a-objetos/)

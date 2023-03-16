@@ -1,3 +1,17 @@
 # ProgOO
 
-[LINK](./img/Tarea_U1.md)
+           Tecnológico Nacional de México
+
+  Instituto Tecnológico de Tijuana Unidad Tomas Aquino
+
+           Programación Orientada a Objetos 
+
+                Investigación Unidad 1
+
+          Páez Beltrán Diego Alonso 22211630
+
+        Ingeniería en Sistemas Computacionales 
+
+            Profesor: Mario García Valdez
+
+        15/03/2023, Tijuana, Baja California

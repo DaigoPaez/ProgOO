@@ -19,3 +19,4 @@
 # Tareas
 
 [Investigación Unidad 1](https://github.com/DaigoPaez/ProgOO/tree/main/ParadigmaOO)
+[Tarea Películas](https://github.com/DaigoPaez/TareaPeliculas/tree/main/Pelicula)
